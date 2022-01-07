@@ -1,5 +1,3 @@
-# Amdocs-Java-Developer
-
 ![GitHub top language](https://img.shields.io/github/languages/top/souzafcharles/Amdocs-Java-Developer)
 ![GitHub](https://img.shields.io/github/license/souzafcharles/Amdocs-Java-Developer)
 ![GitHub last commit](https://img.shields.io/github/last-commit/souzafcharles/Amdocs-Java-Developer)
