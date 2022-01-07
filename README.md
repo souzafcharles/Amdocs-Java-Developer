@@ -4,9 +4,9 @@
 
 # :computer: Bootcamp: Amdocs Java Developer
 
-:triangular_flag_on_post: Presented by [Digital Innovation One](https://www.dio.me/)
+:triangular_flag_on_post: Presented by [Digital Innovation One](https://www.dio.me/) and [Amdocs](https://www.amdocs.com/)
 
-:black_square_button: IDE used: IntelliJ IDEA
+:black_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Bootcamp schedule:
 
