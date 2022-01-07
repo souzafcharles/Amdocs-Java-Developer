@@ -10,6 +10,6 @@
 
 ## Bootcamp schedule:
 
-- Topic 1. [Dominando IDEs Java](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-A01-Dominando-IDEs-Java)
+- Topic 1. [Dominando IDEs Java](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-A01-Dominando-IDEs-Java) -- [Cerfificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-A01-Dominando-IDEs-Java/CERTIFICATE.pdf)
 
 ### :link: [Bootcamp Information](https://www.dio.me/bootcamp/amdocs-java-developer?utm_source=pr-bc-amdocs-java-developer&utm_medium=pay&utm_campaign=amdocs)
