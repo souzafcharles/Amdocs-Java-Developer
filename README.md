@@ -12,7 +12,7 @@
 
 - Topic 01. [Dominando IDEs Java](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-A01-Dominando-IDEs-Java) -> [Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-A01-Dominando-IDEs-Java/CERTIFICATE.pdf)
 - Topic 02. [Introdução ao Ecossistema e Documentação Java](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-B02-Introducao-Ecossistema-Documentacao-Java) -> [Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-B02-Introducao-Ecossistema-Documentacao-Java/CERTIFICATE.pdf)
-- Topic 03. Configurando Ambiente de Desenvolvimento Java no Linux -> [Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-C03-Configurando-Ambiente-Desenvolvimento-Java-Linux/CERTIFICATE.pdf)
+- Topic 03. [Configurando Ambiente de Desenvolvimento Java no Linux](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-C03-Configurando-Ambiente-Desenvolvimento-Java-Linux) -> [Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-C03-Configurando-Ambiente-Desenvolvimento-Java-Linux/CERTIFICATE.pdf)
 - Topic 04. Estruturas de Repetição e Arrays em Java 
 - Topic 05. Reforçando o Conceito de Laços em Java
 - Topic 06. Introdução a orientação a objetos com Java
