@@ -4,7 +4,6 @@ package org.souza.charles;
  * Exercise solved by: Charles Fernandes de Souza
  * Date: January 13, 2022
  */
-
 import java.io.IOException;
 import java.util.Scanner;
 
