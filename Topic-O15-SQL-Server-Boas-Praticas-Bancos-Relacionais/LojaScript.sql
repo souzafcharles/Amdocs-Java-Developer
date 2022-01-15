@@ -1,3 +1,10 @@
+/**
+ * Bootcamp title: Amdocs Java Developer
+ * Instructor: Rodrigo Tavares
+ * Example adapted by: Charles Fernandes de Souza
+ * Date: January 15, 2022
+ */
+
 CREATE DATABASE loja
 USE loja
 
@@ -55,8 +62,8 @@ CREATE TABLE LOJAS(
 );
 
 INSERT INTO LOJAS (CODIGO, NOME) VALUES (1000, 'Filial Socorro');
-INSERT INTO LOJAS (CODIGO, NOME) VALUES (2000, 'Filial São Carlos');
-INSERT INTO LOJAS (CODIGO, NOME) VALUES (3000, 'Filial São Natal');
+INSERT INTO LOJAS (CODIGO, NOME) VALUES (2000, 'Filial SÃ£o Carlos');
+INSERT INTO LOJAS (CODIGO, NOME) VALUES (3000, 'Filial SÃ£o Natal');
 
 SELECT * FROM LOJAS
 
