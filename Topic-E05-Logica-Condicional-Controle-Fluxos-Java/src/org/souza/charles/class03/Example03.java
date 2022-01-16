@@ -69,7 +69,6 @@ public class Example03 {
             }
         }
     }
-
     private static void ifSemFlecha () {
         int mes = 9;
         if (mes == 1) {
@@ -164,7 +163,6 @@ public class Example03 {
                 break;
         }
     }
-
     private static void switchNumero() {
         int numero = 4;
         switch (numero) {
@@ -184,7 +182,6 @@ public class Example03 {
                 break;
         }
     }
-
     private static void switchFerias() {
         String mes = "dezembro";
         switch (mes) {
