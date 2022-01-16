@@ -29,6 +29,6 @@
 - Topic 13. [SQL SERVER - Criando suas primeiras consultas](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-M13-SQL-SERVER-Criando-suas-primeiras-consultas) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-M13-SQL-SERVER-Criando-suas-primeiras-consultas/CERTIFICATE.pdf)
 - Topic 14. [Modelando um banco de dados na prática com SQL SERVER](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-N14-Modelando-Banco-Dados-Pratica-SQL-SERVER) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-N14-Modelando-Banco-Dados-Pratica-SQL-SERVER/CERTIFICATE.pdf) 
 - Topic 15. [SQL Server: Boas práticas em bancos relacionais](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-O15-SQL-Server-Boas-Praticas-Bancos-Relacionais) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-O15-SQL-Server-Boas-Praticas-Bancos-Relacionais/CERTIFICATE.pdf)
-
+- Topic 16 [Introdução a APIs e Métodos HTTP](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-P16-Introducao-APIs-Metodos-HTTP) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-P16-Introducao-APIs-Metodos-HTTP/CERTIFICATE.pdf)
 
 ### :link: [Bootcamp Information](https://www.dio.me/bootcamp/amdocs-java-developer?utm_source=pr-bc-amdocs-java-developer&utm_medium=pay&utm_campaign=amdocs)
