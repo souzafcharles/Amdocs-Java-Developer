@@ -38,7 +38,7 @@
 - Topic 16. [Introdução a APIs e Métodos HTTP](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-P16-Introducao-APIs-Metodos-HTTP) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-P16-Introducao-APIs-Metodos-HTTP/CERTIFICATE.pdf)
 - Topic 17. [Introdução ao Framework Spring Boot](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-Q17-Introducao-Framework-Spring-Boot) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-Q17-Introducao-Framework-Spring-Boot/CERTIFICATE.pdf)
 - Topic 18. [Simplificando Projetos Java com o Spring Boot](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-R18-Simplificando-Projetos-Java-Spring-Boot) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-R18-Simplificando-Projetos-Java-Spring-Boot/CERTIFICATE.pdf)
-- Topic 19. Introdução aos Conceitos de API e Clean Architecture
+- Topic 19. [Introdução aos Conceitos de API e Clean Architecture](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-S19-Introducao-Conceitos-API-Clean-Architecture) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-S19-Introducao-Conceitos-API-Clean-Architecture/CERTIFICATE.pdf)
 - Topic 20. Desafio Java - Bootcamp Amdocs 2
 - Topic 21. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
