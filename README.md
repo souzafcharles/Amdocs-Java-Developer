@@ -6,7 +6,7 @@
 
 :triangular_flag_on_post: Presented by [Digital Innovation One](https://www.dio.me/) and [Amdocs](https://www.amdocs.com/)
 
-:white_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+:white_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Spring Tools 4](https://spring.io/tools)
 
 :black_square_button: SGBD Interface used: [SQL Server Management Studio 18](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
