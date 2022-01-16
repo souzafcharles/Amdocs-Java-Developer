@@ -37,7 +37,7 @@
 - Topic 15. [SQL Server: Boas práticas em bancos relacionais](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-O15-SQL-Server-Boas-Praticas-Bancos-Relacionais) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-O15-SQL-Server-Boas-Praticas-Bancos-Relacionais/CERTIFICATE.pdf)
 - Topic 16. [Introdução a APIs e Métodos HTTP](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-P16-Introducao-APIs-Metodos-HTTP) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-P16-Introducao-APIs-Metodos-HTTP/CERTIFICATE.pdf)
 - Topic 17. [Introdução ao Framework Spring Boot](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-Q17-Introducao-Framework-Spring-Boot) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-Q17-Introducao-Framework-Spring-Boot/CERTIFICATE.pdf)
-- Topic 18. Simplificando Projetos Java com o Spring Boot
+- Topic 18. [Simplificando Projetos Java com o Spring Boot](https://github.com/souzafcharles/Amdocs-Java-Developer/tree/master/Topic-R18-Simplificando-Projetos-Java-Spring-Boot) -> :page_with_curl:[Certificate](https://github.com/souzafcharles/Amdocs-Java-Developer/blob/master/Topic-R18-Simplificando-Projetos-Java-Spring-Boot/CERTIFICATE.pdf)
 - Topic 19. Introdução aos Conceitos de API e Clean Architecture
 - Topic 20. Desafio Java - Bootcamp Amdocs 2
 - Topic 21. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
