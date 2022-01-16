@@ -6,13 +6,13 @@
 
 :triangular_flag_on_post: Presented by [Digital Innovation One](https://www.dio.me/) and [Amdocs](https://www.amdocs.com/)
 
-   - :white_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Spring Tool 4](https://spring.io/tools) + [Eclipse](https://www.eclipse.org/)
+   - :white_square_button: IDE used: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Spring Tool Suite 4](https://spring.io/tools) + [Eclipse](https://www.eclipse.org/)
 
    - :black_nib: Java Development Kit: [11](https://www.oracle.com/java/technologies/downloads/) and [17](https://www.oracle.com/java/technologies/downloads/)
 
    - :black_square_button: SGBD Interface used: [SQL Server Management Studio 18](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
-   - :black_large_square: API Platform: [Postman](https://www.postman.com/)
+   - :black_large_square: API Platform: [Postman](https://www.postman.com/) ans [Swagger](https://swagger.io/)
 
    - :leaves: Web Interface Tool: [Spring Initializr](https://start.spring.io/)
 
