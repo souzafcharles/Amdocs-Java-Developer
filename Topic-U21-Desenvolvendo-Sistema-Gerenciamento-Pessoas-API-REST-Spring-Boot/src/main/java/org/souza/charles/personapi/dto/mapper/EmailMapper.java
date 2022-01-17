@@ -5,7 +5,6 @@ package org.souza.charles.personapi.dto.mapper;
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 16, 2022
  */
-
 import org.souza.charles.personapi.dto.request.EmailDTO;
 import org.souza.charles.personapi.entities.Email;
 import org.mapstruct.Mapper;
