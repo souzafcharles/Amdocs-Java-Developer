@@ -12,7 +12,7 @@
 
    - :black_square_button: SGBD Interface used: [SQL Server Management Studio 18](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
-   - :black_large_square: API Platform used: [Postman](https://www.postman.com/) ans [Swagger](https://swagger.io/)
+   - :black_large_square: API Platform used: [Postman](https://www.postman.com/) and [Swagger](https://swagger.io/)
 
    - :leaves: Web Interface Tool used: [Spring Initializr](https://start.spring.io/)
    
