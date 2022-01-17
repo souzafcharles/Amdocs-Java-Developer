@@ -1,11 +1,4 @@
 package org.souza.charles.personapi.services;
-/**
- * Bootcamp title: Amdocs Java Developer
- * Instructor: Rodrigo Peleias
- * Example adapted by: Charles Fernandes de Souza
- * Date: January 16, 2022
- */
-
 import lombok.AllArgsConstructor;
 import org.souza.charles.personapi.dto.mapper.PersonMapper;
 import org.souza.charles.personapi.dto.request.PersonDTO;
