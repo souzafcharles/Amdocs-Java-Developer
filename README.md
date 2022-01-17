@@ -17,6 +17,8 @@
    - :leaves: Web Interface Tool used: [Spring Initializr](https://start.spring.io/)
    
    - :boom: Testing Framework used: [JUnit 5](https://junit.org/junit5/)
+  
+   - :twisted_rightwards_arrows: Code Generator Tool used: [MapStruct](https://mapstruct.org/)
 
 ## Bootcamp schedule (content from Java, SQL SERVER, APIs and Spring Boot):
 
