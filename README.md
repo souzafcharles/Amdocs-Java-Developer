@@ -16,7 +16,7 @@
 
    - :leaves: Web Interface Tool used: [Spring Initializr](https://start.spring.io/)
    
-   - :boom: Testing Framework used: [JUnit 5](https://junit.org/junit5/)
+   - :boom: Testing Framework used: [JUnit 5](https://junit.org/junit5/) and [Cucumber](https://cucumber.io/)
   
    - :twisted_rightwards_arrows: Code Generator Tool used: [MapStruct](https://mapstruct.org/)
 
