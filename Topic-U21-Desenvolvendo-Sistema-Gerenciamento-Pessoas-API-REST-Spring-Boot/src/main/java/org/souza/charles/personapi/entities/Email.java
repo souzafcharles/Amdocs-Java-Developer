@@ -5,13 +5,11 @@ package org.souza.charles.personapi.entities;
  * Example adapted by: Charles Fernandes de Souza
  * Date: January 16, 2022
  */
-
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.souza.charles.personapi.enums.EmailType;
-
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
